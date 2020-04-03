@@ -1,13 +1,14 @@
-import React from "react";
-import UsersList from "../components/UsersList";
+import React from 'react';
+
+import UsersList from '../components/UsersList';
 
 const Users = () => {
   const USERS = [
     {
-      id: "u1",
-      name: "Phani Kumar",
+      id: 'u1',
+      name: 'Max Schwarz',
       image:
-        "https://images.pexels.com/photos/715546/pexels-photo-715546.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        'https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
       places: 3
     }
   ];
